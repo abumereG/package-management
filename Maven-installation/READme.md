@@ -11,7 +11,7 @@
    + 22 ..etc
 + Create Redhat EC2 T2.medium Instance with 4GB of RAM.
 + Attach Security Group to EC2 Instance.
-+ Install java openJDK 1.8+
++ Install java openJDK 11+
 
 ### Install Java JDK 11+  and other softares (GIT, wget and tree)
 
